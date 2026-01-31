@@ -1,2 +1,0 @@
-# exambot
-exambot
